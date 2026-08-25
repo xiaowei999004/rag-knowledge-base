@@ -1,0 +1,14 @@
+python-dotenv==1.0.1
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pymilvus==2.5.0
+langchain==0.3.13
+langchain-community==0.3.13
+langchain-openai==0.2.14
+llama-parse==0.5.20
+gradio==5.9.1
+pypdf==5.1.0
+python-docx==1.1.2
+sentence-transformers==3.3.1
+rerankers==0.6.0
+python-multipart==0.0.20
